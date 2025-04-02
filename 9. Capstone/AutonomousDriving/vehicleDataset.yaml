@@ -1,0 +1,17 @@
+path: vehicleDataset/
+train: 'images/train'
+val: 'images/valid'
+ 
+# class names
+names: 
+  0: 'pickup_truck'
+  1: 'car'
+  2: 'articulated_truck'
+  3: 'bus'
+  4: 'motorized_vehicle'
+  5: 'work_van'
+  6: 'single_unit_truck'
+  7: 'pedestrian'
+  8: 'bicycle'
+  9: 'non-motorized_vehicle'
+  10: 'motorcycle'
